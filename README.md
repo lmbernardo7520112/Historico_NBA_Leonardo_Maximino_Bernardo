@@ -1,6 +1,6 @@
 ## 🏀 Desvendando o Legado Estatístico da NBA
 
-Construído e mantido por: Leonardo Maximino Bernardo
+Desenvolvido por: Leonardo Maximino Bernardo
 
 
 Este repositório, de autoria de Leonardo Maximino Bernardo, oferece acesso aos dados por trás de um registro histórico completo e interativo da NBA. Mantido com atualizações frequentes, este conjunto de dados se baseia nas informações de jogos meticulosamente coletadas do site Basketball-Reference.com.
