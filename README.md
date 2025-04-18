@@ -65,16 +65,6 @@ O objetivo é fornecer uma base rica para fãs, analistas e entusiastas mergulha
 </ol>
 </details>
 
----
-
-## 📖 Sobre o Projeto
-
-Este repositório oferece acesso a um registro histórico completo e interativo da NBA, ideal para análises estatísticas e exploração de dados. Mantido com atualizações frequentes (baseado na fonte original), o conjunto de dados principal (`nbaallelo.csv`) provém de informações meticulosamente coletadas do renomado site [Basketball-Reference.com](https://www.basketball-reference.com/).
-
-O objetivo é fornecer uma base rica para fãs, analistas e entusiastas mergulharem na história da liga, desvendando padrões, comparando eras e compreendendo a dinâmica das equipes e jogadores ao longo do tempo.
-
----
-
 ## 📑 Dicionário de Dados (`nbaallelo.csv`)
 
 No centro deste acervo encontra-se o arquivo `nbaallelo.csv`, um compêndio detalhado que encapsula a história da liga através de uma série de variáveis cuidadosamente selecionadas. Abaixo, você encontrará uma descrição concisa de cada coluna:
