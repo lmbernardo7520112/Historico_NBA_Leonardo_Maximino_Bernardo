@@ -211,17 +211,6 @@ Distribuído sob a Licença MIT. Veja `LICENSE` para mais informações. *(Certi
 
 ---
 
-## 📧 Contato
-
-Leonardo Maximino Bernardo
-
-*   GitHub: [@lmbernardo7520112](https://github.com/lmbernardo7520112)
-*   Email: <leonardo.bernardo@professor.pb.gov.br> ou <lmbernardo752011@gmail.com>
-
-Link do Projeto: [https://github.com/lmbernardo7520112/Historico_NBA_Leonardo_Maximino_Bernardo](https://github.com/lmbernardo7520112/Historico_NBA_Leonardo_Maximino_Bernardo)
-
----
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- URLs atualizadas com o repositório correto -->
 [License-shield]: https://img.shields.io/github/license/lmbernardo7520112/Historico_NBA_Leonardo_Maximino_ jogo.                                                                                        |
