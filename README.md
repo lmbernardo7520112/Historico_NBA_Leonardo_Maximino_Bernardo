@@ -81,26 +81,6 @@ No centro deste acervo encontra-se o arquivo `nbaallelo.csv`, um compêndio deta
 | 👕 `team_id`     | Código de três letras para o nome do time (do Basketball Reference).                                                            |
 | 🏛️ `fran_id`    | ID da franquia (vários `team_id` podem pertencer ao mesmo `fran_id` devido a mudanças de nome ou transferências).           |
 | 🎯 `pts`         | Pontos marcados pelo time.                                                                                                       |
-| 💪 `elo_i`       | Classificação Elo do time antes do das equipes e jogadores ao longo do tempo.
-
----
-
-## 📑 Dicionário de Dados (`nbaallelo.csv`)
-
-No centro deste acervo encontra-se o arquivo `nbaallelo.csv`, um compêndio detalhado que encapsula a história da liga através de uma série de variáveis cuidadosamente selecionadas. Abaixo, você encontrará uma descrição concisa de cada coluna:
-
-| Cabeçalho        | Definição                                                                                                                      |
-| :--------------- | :----------------------------------------------------------------------------------------------------------------------------- |
-| 🔢 `gameorder`   | Ordem cronológica do jogo na história da NBA.                                                                                  |
-| 🆔 `game_id`     | ID único para cada jogo.                                                                                                         |
-| 🏀 `lg_id`       | Liga em que o jogo foi disputado.                                                                                                |
-| 📑 `_iscopy`     | Indica se o registro do jogo é uma "cópia" da perspectiva do time adversário (0 ou 1).                                              |
-| 📅 `year_id`     | Ano em que a temporada terminou.                                                                                                 |
-| 🗓️ `date_game`   | Data em que o jogo ocorreu.                                                                                                    |
-| 🏆 `is_playoffs` | Indicador para jogos de playoff (1 para playoff, 0 para temporada regular).                                                       |
-| 👕 `team_id`     | Código de três letras para o nome do time (do Basketball Reference).                                                            |
-| 🏛️ `fran_id`    | ID da franquia (vários `team_id` podem pertencer ao mesmo `fran_id` devido a mudanças de nome ou transferências).           |
-| 🎯 `pts`         | Pontos marcados pelo time.                                                                                                       |
 | 💪 `elo_i`       | Classificação Elo do time antes do jogo.                                                                                        |
 | 📈 `elo_n`       | Classificação Elo do time após o jogo.                                                                                           |
 | ✨ `win_equiv`   | Número equivalente de vitórias em uma temporada de 82 jogos para um time da qualidade `elo_n`.                                   |
@@ -124,18 +104,6 @@ Para ilustrar a emoção presente nestes dados, apresentamos um GIF que captura 
   <img src="https://i.imgur.com/G5n088.gif" alt="Finais NBA 2013 - Jogo 7" width="600"/>
 </div>
 
----
-
-## 💡 Principais Insights da Análise
-
-Nossa jornada exploratória pelos anais da NBA, guiada por este conjunto de dados e visualizações (potencialmente geradas a partir dele), revela aspectos importantes da dinâmica da liga:
-
-*   📈 **Evolução do Rating Elo:** Observa-se um crescimento inicial acentuado do Rating Elo médio da liga, indicando um desenvolvimento acelerado. Após uma fase de adaptação, a liga tende a uma estabilização, sugerindo equilíbrio competitivo, com possíveis novas eras de alta performance surgindo periodicamente.
-*   🏆 **Disparidade entre Franquias:** Os dados mostram uma clara diferença histórica entre as franquias. Algumas, como Lakers, Celtics, Spurs e Bulls, demonstram históricos de sucesso mais consistentes, enquanto outras apresentam maior variabilidade.
-*   📊 **Consistência vs. Média:** Analisar a média do Rating Elo junto com sua variância (consistência) oferece uma visão mais completa, distinguindo domínios duradouros de picos momentâneos de performance.
-*   🕸️ **Visualização de Dominância (Ex: Anos 90):** A análise de confrontos e métricas como "win-equiv" pode ilustrar períodos de supremacia, como a do Chicago Bulls nos anos 90, destacando sua força e consistência frente aos rivais da época.
-
----
 
 ## 🛠️ Tecnologias Utilizadas (na Análise)
 
@@ -205,17 +173,6 @@ Contribuições são bem-vindas! Se você tem sugestões para melhorar a organiz
 | 🔮 `forecast`   | Probabilidade de vitória baseada no Elo para o time, considerando a localização do jogo.                                        |
 | 📝 `notes`      | Notas adicionais sobre o jogo.                                                                                                 |
 
----
-
-## 📼 Momentos Eletrizantes da NBA
-
-Para ilustrar a emoção presente nestes dados, apresentamos um GIF que captura a intensidade do Jogo 7 das Finais da NBA de 2013:
-
-<div align="center">
-  <img src="https://i.imgur.com/G5n088.gif" alt="Finais NBA 2013 - Jogo 7" width="600"/>
-</div>
-
----
 
 ## 💡 Principais Insights da Análise
 
