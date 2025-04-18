@@ -201,18 +201,7 @@ Contribuições são bem-vindas! Se você tem sugestões para melhorar a organiz
 4.  Fazer Push para a Branch (`git push origin feature/NovaAnalise`).
 5.  Abrir um Pull Request.
 
-Consulte o arquivo `CONTRIBUTING.md` (se disponível) para mais detalhes.
-
----
-
-## 📜 Licença
-
-Distribuído sob a Licença MIT. Veja `LICENSE` para mais informações. *(Certifique-se de que um arquivo LICENSE existe e corresponde a MIT)*
-
----
-
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- URLs atualizadas com o repositório correto -->
 [License-shield]: https://img.shields.io/github/license/lmbernardo7520112/Historico_NBA_Leonardo_Maximino_ jogo.                                                                                        |
 | 📈 `elo_n`       | Classificação Elo do time após o jogo.                                                                                           |
 | ✨ `win_equiv`   | Número equivalente de vitórias em uma temporada de 82 jogos para um time da qualidade `elo_n`.                                   |
@@ -310,8 +299,7 @@ Consulte o arquivo `CONTRIBUTING.md` (se disponível) para mais detalhes.
 
 ## 📜 Licença
 
-Distribuído sob a Licença MIT. Veja `LICENSE` para mais informações. *(Certifique-se de que um arquivo LICENSE existe e corresponde a MIT)*
-
+Distribuído sob a Licença MIT. Veja `LICENSE` para mais informações.
 ---
 
 ## 📧 Contato
